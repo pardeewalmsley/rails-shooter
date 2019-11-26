@@ -1,2 +1,3 @@
-# rails-shooter
-A prototype Rails Shooter video game, in Unity. 
+# Rails-style Shooter video game
+
+A prototype Rails Shooter video game, made in Unity. 
